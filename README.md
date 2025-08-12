@@ -1,4 +1,4 @@
-# 3D Bin Packing – Layer-by-Layer Greedy Algorithm (Python)
+# 3D Bin Packing – Layer-by-Layer Greedy Algorithm
 
 ## Overview
 This project implements a **layer-by-layer 3D bin packing algorithm** in Python using a **greedy heuristic**.  
